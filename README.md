@@ -6,8 +6,7 @@
 
 ```text
 .
-├─ 14-2310280374-陈诺-基于F28335的HRPWM设计与实现（对应例程lab29-HRPWM_SFO、lab30-HRPWM）.docx
-├─ 14-2310280374-陈诺-基于F28335的HRPWM设计与实现（对应例程lab29-HRPWM_SFO、lab30-HRPWM）.pdf
+
 ├─ visio文件/
 │  ├─ 1.vsdx
 │  ├─ 2.vsdx
@@ -17,11 +16,8 @@
 │  ├─ 7.vsdx
 │  ├─ 23.vsdx
 │  └─ 32.vsdx
-└─ 例程及创新工程源程序/
-   ├─ lab29-HRPWM_SFO/
-   ├─ lab30-HRPWM/
-   ├─ F28335_HRPWM_Breathing_LED_/
-   └─ F28335_HRPWM_Multi_Frequency/
+├─ F28335_HRPWM_Breathing_LED_/
+└─ F28335_HRPWM_Multi_Frequency/
 ```
 
 ## 工程说明
